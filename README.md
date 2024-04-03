@@ -1,4 +1,4 @@
-# 7.-String-Subsequence in python
+# String-Subsequence in python
 t = input()
 s = input()
 if len(s) > len(t):
